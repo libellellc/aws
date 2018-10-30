@@ -1,4 +1,3 @@
-[navbar]Brand reference
 ***
 * Hierarchical
  * list of
